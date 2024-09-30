@@ -9,7 +9,7 @@ User-friendly interface for easy interaction.
 Supports predictions for over 100 dog breeds.
 Uses a pre-trained CNN model for efficient and reliable predictions.
 # Technologies Used
-Python: Programming language for building the application.
+Python: Programming language for building the model.
 
 TensorFlow/Keras: Frameworks used for developing the CNN model.
 # Access to Dataset and Models
