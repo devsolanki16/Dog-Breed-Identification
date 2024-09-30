@@ -8,7 +8,7 @@ Upload an image of a dog and receive the predicted breed.
 User-friendly interface for easy interaction.
 Supports predictions for over 100 dog breeds.
 Uses a pre-trained CNN model for efficient and reliable predictions.
-Technologies Used
+# Technologies Used
 Python: Programming language for building the application.
 TensorFlow/Keras: Frameworks used for developing the CNN model.
 # Access to Dataset and Models
